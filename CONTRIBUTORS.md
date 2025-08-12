@@ -7,3 +7,4 @@
 | @krupalpanchal | @krupal-panchal | #353 |
 | @mujuonly | @mujuonly | #655 |
 | @shooper | @shawnhooper | #1208 |
+| @vasantrajput | @vasantrajput | #2004 |
